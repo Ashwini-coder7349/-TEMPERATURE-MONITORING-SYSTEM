@@ -34,3 +34,5 @@ Arduino Code for LCD Display: This example will read the temperature from the DH
 Upload the Code: After writing the code, click the Upload button in the Arduino IDE. Once the code is uploaded successfully, the LCD should display the temperature in Celsius.
 
 **OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/0423411a-c9be-429c-978a-37deb8b59b10)
