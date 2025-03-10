@@ -35,4 +35,4 @@ Upload the Code: After writing the code, click the Upload button in the Arduino 
 
 **OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/0423411a-c9be-429c-978a-37deb8b59b10)
+![Image](https://github.com/user-attachments/assets/ddae846a-627a-404c-a16c-7a073068009c)
